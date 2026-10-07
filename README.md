@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**HassanK893/HassanK893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, я Хассан 👋
+Fullstack-разработчик — TypeScript / React / Node.js. Делаю продукт целиком: от схемы БД и API до интерфейса и деплоя.
 
-Here are some ideas to get you started:
+<p> <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,mysql,prisma,redis,docker,nginx,githubactions,gitlab,figma&perline=15" alt="Стек" /> </p>
+Стек
+Frontend React · TypeScript · JavaScript · React Router · Zustand · TanStack Query · HTML · CSS3 · Vite · Webpack · Storybook · FSD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Node.js · Express · REST API · OpenAPI · Zod · JWT · WebSockets · Clean Architecture · ООП
+
+Базы данных и хранилища PostgreSQL · MySQL · SQL · Prisma · Redis · MinIO / S3
+
+Инфраструктура Docker · Docker Compose · Nginx · RabbitMQ · CI/CD · GitHub Actions · GitLab CI
+
+Инструменты Git · npm · Figma · работа с AI-моделями
+
+Сейчас делаю
+🛍 Karma — интернет-магазин одежды: React + Express + PostgreSQL + MinIO, монорепа на pnpm, фронт по FSD.
